@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahidBit
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming languages and studying Computer engineering 
+- 🌱 I’m currently learning programming languages and studied Computer engineering 
 - 💞️ I’m looking to collaborate on programming in java,python,javascript and network Security code 
 - 📫 How to reach me  Email: Sahidmustapha28@gmail.com 
 
